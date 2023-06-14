@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Deutsch Gothic";
+    src: url(fonts/Deutsch\ Gothic.ttf);
+}
+p{
+    font-family: "Deutsch Gothic";
+}
+@font-face {
+    font-family: "League Gothic";
+    src: url("fonts/LeagueGothic-Regular.otf");
+    font-weight: normal;
+    font-style:normal;
+}
+@font-face {
+    font-family: "League Gothic";
+    src: url(fonts/LeagueGothic-Italic.otf);
+    font-weight: normal;
+    font-style:italic;
+}
+p{
+    font-family: "League Gothic";
+}
